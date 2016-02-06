@@ -23,7 +23,7 @@ source=(http://ftp.gnome.org/pub/gnome/sources/$_pkgname/${pkgver%.*}/$_pkgname-
         move-desktop-file.patch)
 sha256sums=('3db993f2dbabc0c9d06a309bb12c9a7104b9cdda414ac4b1c301f5114a441c15'
             '2e7e40175533556493bb58795a2c1b4e53b4baba35d151e632b933c6077456d9'
-            'ddc4dfaa8083ff24a7d2fb6138b8c3fee5d4e6c60c24b4e80a39392d0c8f2162'
+            'c41640f51cc2b0165b94cf39971fabfaed3cd678e24cddb3efecfe1b673fc33f'
             '1b6b8216434b766e1389e876cba5d6ab61498c5824f6d2cc5d67dcf58a07842a'
             '0821f469cd168f3a131da513a5f9dd352c06f9bc31d57d79de4dc063fa2de915'
             '02da2467e287620c3b717c7ff5ffea7403cce714d5aa32e27d051b6571451e2a'
